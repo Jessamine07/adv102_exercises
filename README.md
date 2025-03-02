@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-# adv102_exercise2-3
-Exercise 2 and 3 ADV 102
+# adv102_exercise2-5
+Exercise 2,3,4, and 5 ADV 102
 =======
 # Welcome to your Expo app 👋
 
