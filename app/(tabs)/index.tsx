@@ -3,7 +3,7 @@ import { Text, View, StyleSheet } from "react-native";
 export default function Home() {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>ANGELINE CABIJE</Text>
+      <Text style={styles.text}>Jessamine Angelica L. De Lara</Text>
     </View>
   );
 }
@@ -13,7 +13,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
-    backgroundColor: '#FFD700', 
+    backgroundColor: 'pink', 
     padding: 20,
   },
   text: {

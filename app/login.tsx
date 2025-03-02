@@ -84,11 +84,11 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#FFD700',
+    backgroundColor: 'pink',
     padding: 20,
   },
   card: {
-    padding: 25,
+    padding: 60,
     backgroundColor: '#ffffff',
     borderRadius: 10,
     elevation: 8,
@@ -154,7 +154,7 @@ const styles = StyleSheet.create({
     marginVertical: 10,
   },
   socialButtonsContainer: {
-    marginTop: 20,
+    marginTop: 5,
     width: '100%',
   },
   socialButton: {

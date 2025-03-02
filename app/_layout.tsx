@@ -12,13 +12,17 @@ export default function RootLayout() {
             />
           
             <Stack.Screen
-                name="login" />
+                name="login" 
+                />
             <Stack.Screen 
                 name="+not-found.tsx" 
                 options={{
                     headerShown: false,
                 }}
             />
+            <Stack.Screen name="Exercise4"/>
+            <Stack.Screen name="state"/>
+            <Stack.Screen name="effect"/>
         </Stack>
     )
 }
