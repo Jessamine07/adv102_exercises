@@ -50,7 +50,19 @@ export default function Exercises() {
 
 
         { title: 'Exercise 6', description: 'Hi', href: '/' },
-        { title: 'Exercise 7', description: 'Hi', href: '/' },
+        
+        {
+            title: 'Exercise 7',
+            description: `
+            <ul>Create a simple quiz using the API from Open Trivia Database</ul>
+            <ul>
+                <li>Minimum of 10 and a maximum of 30</li>
+                
+            </ul>
+            `,
+            href: '/exercise7'
+        },
+
         { title: 'Exercise 8', description: 'Hi', href: '/' },
     ];
     
